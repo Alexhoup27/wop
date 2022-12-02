@@ -1,2 +1,2 @@
 # wop
-My app is solution for every employer, hies get problems with organizate them problem in company
+При запуске моего приложения требуется запустить сначало server_main после чего можно запускать main. При этом даннную операцию нужно будет постоянно повторятью
